@@ -1,7 +1,10 @@
-# By the way
-My Github profile is poor of content :P
+_My Github profile is poor of content :P_
 
-_So you may want to see my other profile at https://reinforce.moe/about-en.md_
+# My website can show Markdown file directly!
+
+It is awesome, itn't it? Head over to https://reinforce.moe/about-en.md and check it out!
+
+***
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReinforceZwei&show_icons=true)
 
