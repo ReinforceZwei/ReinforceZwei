@@ -1,9 +1,8 @@
 _My Github profile is poor of content :P_
 
-# My website can show Markdown file directly!
+_I'm too lazy to copy and paste my profile from my website to GitHub..._
 
-It is awesome, isn't it? Head over to https://reinforce.moe/about-en.md and check it out!  
-Or https://reinforce.moe/md/ !
+[reinforce.moe/about](https://reinforce.moe/about-en.md)
 
 ***
 
