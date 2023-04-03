@@ -32,6 +32,12 @@ I use these editors daily
 
 ***
 
+<p>
+<img src="https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=FFF" />
+</p>
+
+***
+
 I bought a domain just because I like the name :P
 
 [saku.moe](https://saku.moe)
