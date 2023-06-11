@@ -44,7 +44,7 @@ I bought a domain just because I like the name :P
 
 ***
 
-Read more about me at [reinforce.moe/about](https://reinforce.moe/about-en.md)
+Read more about me at [reinforce.moe/about](https://reinforce.moe/about-en/)
 
 ***
 
